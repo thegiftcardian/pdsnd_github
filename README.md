@@ -1,17 +1,21 @@
->**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+# Note from Udacity: >**Note**: Please **fork** the current Udacity repository so that you will have a **remote** repository in **your** Github account. Clone the remote repository to your local machine. Later, as a part of the project "Post your Work on Github", you will push your proposed changes to the remote repository in your Github account.
+###
+
 
 ### Date created
-Include the date you created this project and README file.
+20240604 - Created the repository and added the bikeshare.py
 
 ### Project Title
-Replace the Project Title
+Bikehsare.py
 
 ### Description
-Describe what your project is about and what it does
+The project is to pass the Udacity Training.
 
 ### Files used
-Include the files used
+.py files to run the python scripts.
+.csv data files in the bikeshare_data folder
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Link to the repo: https://github.com/thegiftcardian/pdsnd_github/
+Credits to thegiftcardian for updating the project.
 
