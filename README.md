@@ -17,5 +17,8 @@ The project is to pass the Udacity Training.
 
 ### Credits
 Link to the repo: https://github.com/thegiftcardian/pdsnd_github/
-Credits to thegiftcardian, and <secondeditor>, for updating the project.
 
+Credits to: 
+    - thegiftcardian
+    - <secondeditor>
+    - <Thirdeditor>
