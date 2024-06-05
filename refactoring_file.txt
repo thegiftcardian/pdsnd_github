@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Refactoring the files. 
 Second update, explain more about this file.   Fixing a typo..
+||||||| parent of 1c6099a (Refactoring Branch, adding basic update in refactoring_file.txt)
+=======
+Refactoring the files. 
+>>>>>>> 1c6099a (Refactoring Branch, adding basic update in refactoring_file.txt)
